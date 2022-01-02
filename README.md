@@ -1,0 +1,1 @@
+ric-resource-service.alpha
